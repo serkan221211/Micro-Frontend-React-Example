@@ -1,6 +1,6 @@
 # Micro Frontend Example
 
-Bu proje, micro frontend mimarisini kullanarak oluşturulmuş bir örnek uygulamadır. Proje, React ve Tailwind CSS kullanılarak geliştirilmiştir. Projede üç ayrı uygulama bulunmaktadır: Host-App, App1 ve App2.
+Bu proje, micro frontend mimarisini kullanarak oluşturulmuş bir örnek uygulamadır. Proje, React ve Tailwind CSS kullanılarak geliştirilmiştir. Projede üç ayrı uygulama bulunmaktadır: Host-App, Auth ve PDP.
 
 ## Kurulum
 
